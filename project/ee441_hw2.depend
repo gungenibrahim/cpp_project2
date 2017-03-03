@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1481219511 source:c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\main.cpp
+	<iostream>
+	<fstream>
+	<user.h>
+	<stdio.h>
+	<stdlib.h>
+	<queue.h>
+	<stack.h>
+	<stackuser.h>
+	<queueuser.h>
+	<dynamicQueue.h>
+	<newqueue.h>
+
+1481218344 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\user.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<user.h>
+
+1481138953 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\queue.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1481039475 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\stack.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1481218343 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\stackuser.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<user.h>
+
+1481219485 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\queueuser.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<user.h>
+
+1481139063 source:c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\src\dynamicqueue.cpp
+	"dynamicQueue.h"
+
+1481140480 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\dynamicqueue.h
+	<iostream>
+	<conio.h>
+
+1481218341 c:\users\gunge\desktop\similasyon_deneme\cpp\ee441_hw2\include\newqueue.h
+	<iostream>
+	<conio.h>
+	<user.h>
+
